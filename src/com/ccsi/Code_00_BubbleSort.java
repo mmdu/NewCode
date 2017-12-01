@@ -82,6 +82,8 @@ public class Code_00_BubbleSort {
             System.out.print(arr[i] + " ");
         }
         System.out.println();
+        System.out.println("-------------------------");
+
     }
 
     // for test
